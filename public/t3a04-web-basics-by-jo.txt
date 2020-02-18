@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> Basic web stuff </title>
+</head>
+<body>
+<h1 align=center>T3A04-jos-ugly-site.html </h1>
+
+<a href="http://www.google.ca">Link to Google</a><br>
+Plain Text <b> Bold </b> and <i> Italic </i> can you put them together<br>
+<hr>
+This is an image
+<img width=200
+src="https://images.app.goo.gl/ipxd642YiZogrRQJA"><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E5yFcdPAGv0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div id="myDiv01">This is a div</div>
+
+<span>This is </span>
+<span> a span</span>
